@@ -1,0 +1,5 @@
+Credentials cache: API:35D651DB-6EF3-4BE9-AF5F-C138BF8D427C
+        Principal: zmoussam@1337.MA
+
+  Issued                Expires               Principal
+Aug  4 16:52:58 2021  Aug  5 02:52:55 2021  krbtgt/1337.MA@1337.MA
